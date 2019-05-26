@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="json-simple-1.1.jar">
+    <ANNOTATIONS>
+      <root url="file://$PROJECT_DIR$" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/Java/json-simple-1.1.jar/json-simple-1.1.jar!/" />
+      <root url="jar://D:/Java/postgresql-42.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

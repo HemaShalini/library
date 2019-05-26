@@ -1,0 +1,5 @@
+<root>
+    <item name='org.json.simple.parser.ParseException'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
